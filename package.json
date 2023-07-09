@@ -1,0 +1,13 @@
+{
+  "name": "wave",
+  "version": "0.0.1",
+  "description": "Wave - A Component Library",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "react",
+    "components"
+  ],
+  "author": "",
+  "license": "MIT"
+}
